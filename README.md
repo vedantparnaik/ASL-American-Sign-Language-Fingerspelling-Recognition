@@ -31,38 +31,13 @@ cd asl-fingerspelling-recognition
 pip install -r requirements.txt
 
 
-## Usage
-The entire project is contained within the Jupyter notebook final-edit.ipynb.
+## **Usage**
 
-Open the Notebook
-Launch Jupyter and open final-edit.ipynb:
+The entire project is contained within the Jupyter notebook `final-edit.ipynb`.
 
-bash
-Copy code
+### **Open the Notebook**
+
+Launch Jupyter and open `final-edit.ipynb`:
+
+```bash
 jupyter notebook final-edit.ipynb
-Run the Cells
-Execute the cells in the notebook sequentially. The notebook includes:
-
-Data preprocessing using Mediapipe.
-Training of the CNN model.
-Training of the Transformer model.
-Inference and evaluation.
-
-## Results
-Validation Accuracy (CNN Model): 85%
-Test Accuracy (Combined Model): 74.3%
-Ranked in the top 10% of the Kaggle competition.
-
-## Model Export
-The final trained model was converted to TensorFlow Lite for efficient inference. The notebook contains code for exporting the model as model.tflite.
-
-## Files
-final-edit.ipynb: The main notebook containing all code, including data preprocessing, model training, and evaluation.
-model.tflite: The exported TensorFlow Lite model (generated from the notebook).
-
-## Acknowledgments
-Kaggle ASL Fingerspelling Competition: Link to Competition
-Mediapipe for hand keypoint detection.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
