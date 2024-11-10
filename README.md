@@ -25,18 +25,7 @@ The dataset is sourced from the [ASL Fingerspelling Kaggle Competition](https://
 
 Clone the repository and install the required packages:
 
+```bash
 git clone <repository-url>
 cd asl-fingerspelling-recognition
 pip install -r requirements.txt
-
-
-## Usage
-
-The entire project is contained within the Jupyter notebook `final-edit.ipynb`.
-
-### Open the Notebook
-
-Launch Jupyter and open `final-edit.ipynb`
-
-```bash
-jupyter notebook final-edit.ipynb ```
