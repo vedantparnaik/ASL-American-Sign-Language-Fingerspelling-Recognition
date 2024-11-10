@@ -21,11 +21,6 @@ The dataset is sourced from the [ASL Fingerspelling Kaggle Competition](https://
 
 - The dataset is processed using TFRecord files for efficient input handling.
 
-## Installation
+## Acknowledgments
 
-Clone the repository and install the required packages:
-
-```bash
-git clone <repository-url>
-cd asl-fingerspelling-recognition
-pip install -r requirements.txt
+Mediapipe for hand keypoint detection.
