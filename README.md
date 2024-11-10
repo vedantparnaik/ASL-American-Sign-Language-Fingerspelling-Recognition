@@ -31,13 +31,13 @@ cd asl-fingerspelling-recognition
 pip install -r requirements.txt
 
 
-## **Usage**
+## Usage
 
 The entire project is contained within the Jupyter notebook `final-edit.ipynb`.
 
-### **Open the Notebook**
+### Open the Notebook
 
-Launch Jupyter and open `final-edit.ipynb`:
+Launch Jupyter and open `final-edit.ipynb`
 
 ```bash
 jupyter notebook final-edit.ipynb
