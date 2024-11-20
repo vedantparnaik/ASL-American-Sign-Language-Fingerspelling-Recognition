@@ -24,3 +24,4 @@ The dataset is sourced from the [ASL Fingerspelling Kaggle Competition](https://
 ## Acknowledgments
 
 Mediapipe for hand keypoint detection.
+TensorFlow Lite.
