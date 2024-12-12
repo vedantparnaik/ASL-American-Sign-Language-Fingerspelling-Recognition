@@ -9,7 +9,7 @@ The ASL Fingerspelling Recognition system utilizes a two-part approach:
 1. **CNN Model for Hand Landmark Detection**:
    - Developed a Convolutional Neural Network (CNN) using TensorFlow to classify ASL fingerspelling images.
    - Achieved 85% validation accuracy by leveraging Mediapipe for hand keypoint extraction.
- 
+  
 2. **Transformer Model for Temporal Dependencies**:
    - Implemented a Transformer model to capture the temporal sequence of hand key points.
    - Utilized positional embeddings and self-attention to boost recognition accuracy.
