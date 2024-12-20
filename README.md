@@ -1,7 +1,7 @@
 # ASL Fingerspelling Recognition
   
 This project focuses on recognizing American Sign Language (ASL) fingerspelling using deep learning models. The goal is to accurately classify ASL gestures, leveraging a combination of CNNs and Transformer models. The project achieved a top 10% ranking on the Kaggle leaderboard.  
-      
+       
 ## Overview             
   
 The ASL Fingerspelling Recognition system utilizes a two-part approach:
